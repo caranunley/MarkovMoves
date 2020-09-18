@@ -1,0 +1,44 @@
+Markov Moves!
+My project uses a Markov Matrix to dictate with dance move comes next.
+
+Set up and Run!
+- All you need to do is download a Java IDE, clone my repo, and run it. 
+
+Personally Meaningful:
+- All my life I have danced. I was put into ballet essentially when I was able to walk. And even 
+more that that, I huge love of mine is choreographing dance and movement. However, choreograping
+movement can present difficulties when you feel like you are constantly repeating the same 
+movements. So in this project, I have created a computer generated dance! You are give five dance
+moves and the program will randomly generate a dance for you and therefore, choreograph a sequence!
+The thought is people could learn a new dance from these images and on a greater scale they could
+learn a whole dance from them. It is also important to note that I based the probabilities on how 
+likely I there certain dance moves are to come after one another. I used what I learned in 
+traditional ballet to help make those assumptions. 
+
+Struggles:
+- I had hoped to do this project with actual images - sadly, I had some technical issues with 
+downloading new softwares. I have often found that this is one of the hardest, if not the 
+hardest, part of computer science for me. I thought the coding itself wasn't too complex but
+trying to find the best pdf manipulator was extremely difficult. I think the next steps going 
+forward would definitely be to purge my disk of unnecessary applications so that I have more
+storage space and would be able to download these applications.
+- HOWEVER, once I realized that it looked like I wasn't going to be able to get a pdf application
+to actually work, I was able to get creative!! I was thinking how can I do this on my own without
+any outside applications. I decided to combine my passion for both Math, CS, and Dance by using 
+Binary representation (■ □) to display the images of dancers! I actually think this is a better
+representation of who I am as a person because it combines my love for computer science as well
+as dance!! (I have always been fascinated with digital recognition - so this reminded me of that
+as well.)
+- Aside from the software, I think the next steps would be to increase the number of dance moves.
+If I were able to scale it up, to perhaps 40 or 50. You would be able to have 5 minute long 
+choreography that you could learn and help improvise with!
+
+Creative System?
+- This is a tough question. I do believe my system is partially creative because it is generating new 
+and random dance sequences. However, I am giving it certain dance moves to do as well so perhaps
+these moves aren't completely unique. I think I would conclude that my system is partially creative 
+because it does generate a random dance but it is based on a set of moves. 
+
+Sources:
+- I talked with Nell and Irene. 
+- To produce my images, I used: https://www.dcode.fr/binary-image
